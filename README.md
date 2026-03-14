@@ -72,8 +72,15 @@ flowchart LR
 ```
 ---
 
+</details>
+
 <a id="arsenal-hibrido"></a> 
+
 # 🛠️ Arsenal & Technical Skills
+
+<details>
+<summary><b>🔍 Ver arsenal</b></summary>
+
 ### 💻 Ecosistema Tecnológico <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,java,mysql,js,git,github,vscode,blender,ps,pr,ai&perline=11" /> <br> <img src="https://img.shields.io/badge/DaVinci%20Resolve-Video%20Editing-black?style=flat-square&logo=davinciresolve"> <img src="https://img.shields.io/badge/Lightroom-Photography-blue?style=flat-square&logo=adobelightroom"> <img src="https://img.shields.io/badge/Twine-Narrative-purple?style=flat-square"> <img src="https://img.shields.io/badge/Acumbamail-Marketing-orange?style=flat-square"> </p> 
 ### 📊 Dominio Técnico & Estrategia
 
@@ -103,9 +110,12 @@ flowchart LR
 | Automatización     | Medio | Optimización |
 
 ---
-<a id="experiencia-en-campo-real"></a>
-# 🏟 Experiencia en Campo Real
 
+</details>
+
+<a id="experiencia-en-campo-real"></a>
+
+# 🏟 Experiencia en Campo Real
 
 <details>
 <summary><b>🎯 Ver impacto profesional</b></summary>
@@ -136,8 +146,15 @@ Producción cultural y coordinación técnica en evento de gran formato.
 Disciplina > Excusas.
 
 ---
+
+</details>
+
 <a id="filosofia-competitiva"></a>
+
 # 🏆 Filosofía Competitiva
+
+<details>
+<summary><b>🔍 Ver filosofía </b></summary>
 
 No compito contra otros perfiles.  
 Compito contra mi versión anterior.
@@ -150,7 +167,12 @@ Compito contra mi versión anterior.
 ---
 <a id="actividad-en-github"></a>
 
+</details>
+
 # 📊 GitHub Activity Graph
+
+<details>
+<summary><b>🔍 Ver actividad </b></summary>
 
 <p align="center">
 
@@ -159,6 +181,8 @@ Compito contra mi versión anterior.
 <img  src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">  
 </p>
 </p>
+
+</details>
 
 ---
 <a id="contacto"></a>
@@ -180,7 +204,9 @@ Si buscabas carácter, estructura y capacidad de ejecución…
 
 Aquí estoy.
 </details>
+
 ---
+
 <div align="center">
 
 <sub>Prince-Salin © 2026</sub>  
